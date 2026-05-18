@@ -12,6 +12,7 @@ bypassAuth
 **下载、安装或使用本软件即视为已阅读并同意本声明全部内容。如不同意，请立即删除本软件。**
 
 *中华人民共和国用户特别提示*
+
 **根据《中华人民共和国刑法》《中华人民共和国治安管理处罚法》《中华人民共和国网络安全法》等相关法律法规：**
 
 **伪造位置信息用于欺诈可能构成诈骗罪（刑法第266条）**
@@ -21,6 +22,7 @@ bypassAuth
 **请务必在合法合规的前提下使用本软件。**
 
 - English
+
   **This software is provided solely for technical learning and research purposes. Users are responsible for ensuring their usage complies with all applicable laws and regulations in their jurisdiction.**
   **The developer assumes no liability for any legal disputes, financial losses, or other consequences arising from the use of this software. All responsibility rests with the user.**
   **The developer does not endorse, guarantee, or assume any direct or indirect responsibility for users' actions.**
