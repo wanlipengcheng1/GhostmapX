@@ -1,0 +1,2 @@
+# GhostmapX
+bypassAuth
